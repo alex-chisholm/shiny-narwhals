@@ -1,5 +1,5 @@
--e git+https://github.com/posit-dev/py-shiny
+git+https://github.com/posit-dev/py-shiny
 great-tables
-pandas
-polars
-pyarrow
+pandas>=1.3.0
+polars==0.15.0
+pyarrow>=5.0.0
