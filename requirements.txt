@@ -1,4 +1,4 @@
-pip@git+https://github.com/pypa/pip
+paya
 git+https://github.com/posit-dev/py-shiny
 great-tables
 pandas
