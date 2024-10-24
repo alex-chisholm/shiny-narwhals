@@ -1,4 +1,4 @@
-shiny @ git+https://github.com/posit-dev/py-shiny.git
+shiny @ git+https://github.com/posit-dev/py-shiny.git@main
 great-tables
 pandas
 polars
